@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certayne causes gathered together wherin is shewed the decaye of Engla[n]d, only by the great multitude of shepe, to the vtter decay of houshold keping, mayntenau[n]ce of men, dearth of corne, and other notable dyscommodityes approued by syxe olde prouerbes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1552</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23573</idno>
+            <idno type="STC">STC 9980.5</idno>
+            <idno type="STC">ESTC S844</idno>
+            <idno type="EEBO-CITATION">22836012</idno>
+            <idno type="OCLC">ocm 22836012</idno>
+            <idno type="VID">25787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1776:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certayne causes gathered together wherin is shewed the decaye of Engla[n]d, only by the great multitude of shepe, to the vtter decay of houshold keping, mayntenau[n]ce of men, dearth of corne, and other notable dyscommodityes approued by syxe olde prouerbes.</title>
+               </titleStmt>
+               <extent>[23] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted at London in Pouls churche yearde at the sygne of Saynct Austen by Heugh Syngelton,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1552?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint taken from colophon; date of imprint suggested by STC (2nd ed.).</note>
+                  <note>Signatures: A⁸ B⁴.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Edward VI, 1547-1553.</term>
+               <term>Great Britain --  Economic conditions --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:25787:1"/>
+            <pb facs="tcp:25787:1" rendition="simple:additions"/>
+            <p>¶ Certayne cauſes gathered together, wherin is ſhewed the decaye of Engla<g ref="char:cmbAbbrStroke">̄</g>d, only by the great multitude of ſhepe, to the vt<g ref="char:EOLhyphen"/>ter decay of houſhold keping, mayntenau<g ref="char:cmbAbbrStroke">̄</g>ce of men, dearth of corne, and other notable dyſcommodityes appro<g ref="char:EOLhyphen"/>ued by ſyre olde Prouerbes.</p>
+            <q>
+               <bibl>Prouer. 20.</bibl> A kyng that ſitteth in iudge<g ref="char:EOLhyphen"/>ment, and loketh well about him, dryueth away all euell.</q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:25787:2" rendition="simple:additions"/>
+            <pb facs="tcp:25787:2"/>
+            <head>To the Kynges moſte hono<g ref="char:EOLhyphen"/>rable Counſell, and the Lordes of the Parlay<g ref="char:EOLhyphen"/>ment houſe.</head>
+            <p>THe fyrſt Article &amp; poynt as we do thynke, is it great pittye (ſo the will of God it were) that there is no corne ynough within this Realme of Englande, at all tymes neceſſary to certyfy &amp; ſuffyce the Kynges ſubiectes for the ſpace of one yere two or thre, yf there were no corne ſowen in this Realme by the ſayde ſpace.</p>
+            <p>We do ſaye that y<hi rend="sup">e</hi> Kinges Maieſtie mercifully hearing the peticio<g ref="char:cmbAbbrStroke">̄</g> of theſe his graces poore ſubiectes maye at alty<g ref="char:EOLunhyphen"/>mes remedy it, when it ſhall
+<pb facs="tcp:25787:3"/>pleaſe hys maieſtie, being for a common wealth for his gra<g ref="char:EOLunhyphen"/>ces ſubiectes, &amp; to the greate encreaſe of this noble realme of Englande.</p>
+            <p>We ſaye as reaſon doeth leade vs, y<hi rend="sup">e</hi> ſhepe &amp; ſhepema<g ref="char:EOLhyphen"/>ſters, doeth cauſe ſka<g ref="char:cmbAbbrStroke">̄</g>tyte of corne, whiche we do thynke, it maye be well approued, by reaſon of ſix prouerbes, for &amp; yf all our lyuynges, and all our commodities, were diuy<g ref="char:EOLhyphen"/>ded in partes, by reaſon of y<hi rend="sup">e</hi> ſame ſyx prouerbes, we that be y<hi rend="sup">e</hi> Kynges maieſtyes poore ſubiectes do loſe ſyx of our co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>modityes, then haue we thre loſſes, whiche make nyne, by reaſon of the ſame thre loſſes we the Kynges mayeſtyes ſubiectes do loſe y<hi rend="sup">e</hi> third part
+<pb facs="tcp:25787:3"/>of our lyuinge, then haue we the tenth part, which we cal a remedy, beſeching your no<g ref="char:EOLhyphen"/>ble grace, to remedye when your maieſtye ſhall pleaſe.</p>
+            <div type="part">
+               <p>As touchyng the fyrſte prouerbe of the ſyx we do thynke.
+<list>
+                     <item>The more ſhepe the dearer is the woll.</item>
+                     <item>The more ſhepe the dearer is the motton.</item>
+                     <item>The more ſhepe the dearer is the beffe.</item>
+                     <item>The more ſhepe the dearer is the corne.</item>
+                     <item>The more ſhepe the ſkanter is the whit meate.</item>
+                     <item>The more ſhepe the fewer egges for a peny.</item>
+                  </list>
+               </p>
+               <pb facs="tcp:25787:4"/>
+               <p> In y<hi rend="sup">e</hi> fyrſt prouerbe, y<hi rend="sup">e</hi> more ſhepe the dearer is the woll. Our complayntis for Oxford ſhyre, Buckyngham ſhyre, &amp; Northampton ſhyre, and as for all other ſhyres, we refer it to the playntyues.</p>
+               <p>We ſhal deſyre you, and al other that reade and ſe the true ententes &amp; meanynges of this our doinges to pardon our ignoraunce, yet not with ſtandyng we deſyre you ſum<g ref="char:EOLhyphen"/>what to attender the premiſ<g ref="char:EOLhyphen"/>ſes, ſeinge it is doue, and put forth, for the commoditye of y<hi rend="sup">e</hi> Kinges mageſties realme, and for the welth of his gra<g ref="char:EOLhyphen"/>ces poore ſubiectes.</p>
+               <p>In the ſayde Oxford ſhyre Buckyngham ſhyre &amp; North<g ref="char:EOLhyphen"/>hampton ſhyre, there be ma<g ref="char:EOLhyphen"/>ny
+<pb facs="tcp:25787:4"/>men of worſhyp dwellyng within the ſayde thre ſhyres. And hath great laudes roly<g ref="char:EOLhyphen"/>ue vpon, the which we praye to God to geue them ioye of, and well to occupye its Many of theſe worſhipful men, ſette no ſtore, nor pryſe, vpon the mayntenaunce of tyllage of theyr landes, as before tyme hath bene vſed, neyther brea<g ref="char:EOLunhyphen"/>dyng nor feadynge of catle, but many of them doeth kepe the moſt ſubſtaunce of theyr landes, in theyr owne han<g ref="char:EOLhyphen"/>des. And where tillage was wont to be, now is it ſtored, wyth greate vmberment of ſhepe: &amp; they that haue great vmberment of ſhepe, muſte nedes haue greate ſtore of woll, and we cannot thynke
+<pb facs="tcp:25787:5"/>who ſhulde make the pryſe of woll, but thoſe y<hi rend="sup">t</hi> haue great plentye of ſhepe. And we do partly knowe that there be ſome dwellynge within theſe thre ſhyres, rather then they wyll ſell theyr woll at a lowe pryſe, they will kepe it a yere or twayne, and all to make it deare, and to kepe it a deare pryſe. And by this meanes y<hi rend="sup">e</hi> fyrſt prouerbe to be true The more ſhepe the dearer is the woll.</p>
+               <p>In the ſeconde prouerbe as we do thynke: The more ſhepe, the dearer is y<hi rend="sup">e</hi> moton.</p>
+               <p>As by reaſon, the moſt ſub<g ref="char:EOLhyphen"/>ſtaunce of our feadynge was wont to be on beffe, and now it is on motton, And ſo many mouthes goith to motton,
+<pb facs="tcp:25787:5"/>which cauſeth motton to be deare.</p>
+               <p>In the thirde prouerbe as we do thinke: The more ſhepe the dearer is the beffe.</p>
+               <p>As by reaſon that breding and fedyng, is not ſet by as it hath bene in tymes paſt, and where as ſhepe is kept vpon the paſture groundes where breadyng &amp; fedynge of beffes was wont to be kept: &amp; where as ſhepe is kept vpon the pa<g ref="char:EOLhyphen"/>ſture groundes, where bre<g ref="char:EOLhyphen"/>dyng and fedynge was wont to be kept: And now there is nothyng kept there but mot<g ref="char:EOLhyphen"/>ton.</p>
+               <p>The fourth prouerbe: The more ſhepe, the dearer is the corne.</p>
+               <p>By reaſon tyllage is not
+<pb facs="tcp:25787:6"/>vſed, occupyed, and maintey<g ref="char:EOLunhyphen"/>ned as it hath bene before ty<g ref="char:EOLunhyphen"/>me, but ſhepe kept vpon the grounde, where tyllage was wont to be kept and maintey<g ref="char:EOLunhyphen"/>ned.</p>
+               <p>The .v. prouerbe: The more ſhepe the ſkanter is the weyte meate.</p>
+               <p>By reaſon tyllage is not vſed, occupyed and mayntey<g ref="char:EOLunhyphen"/>ned nother mayntenaunce of houſes and hoſpitalytye, where as catle was wont to be fede and brede, by reaſon of kepynge of catle ſhulde in<g ref="char:EOLhyphen"/>creaſe whyt meate, and now there is nothyng kept there but only ſhepe.</p>
+               <p>The ſyxte prouerbe: The more ſhepe the fewer egges for a peny.</p>
+               <pb facs="tcp:25787:6"/>
+               <p> By reaſon cottages go downe in the contre, where as pultrye was wont to be breade and fedde, now there is nothyng kept there but ſhepe, which cauſe the egges to be ſolde for fower a penny. Thus be the ſyx prouerbes true, as we do thynke deſy<g ref="char:EOLhyphen"/>rynge you to geue hearynge vnto them, and that it may be wel amended, for the com<g ref="char:EOLhyphen"/>mon welthe of the Kynges poore ſubiectes.</p>
+            </div>
+            <div type="part">
+               <p>Then haue we thre loſſes that maketh nyne.</p>
+               <p>The fyrſt loſſe as we do thin<g ref="char:EOLunhyphen"/>ke, there is not ſo many plo<g ref="char:EOLhyphen"/>wes vſed, occupied, and main<g ref="char:EOLunhyphen"/>teyned within Oxforth ſhyre,
+<pb facs="tcp:25787:7"/>as was in Kynge Henry the ſeuenth tyme, and ſens hys fyrſte comming there lacketh xl. plowes, euery plough was able to kepe .vi. perſo<g ref="char:cmbAbbrStroke">̄</g>s downe lyinge and vpriſynge in hys houſe, the whiche draweth to twelf ſcore perſons in Oxford ſhyre. And where y<hi rend="sup">t</hi> the ſayde twelf ſcore perſons were wo<g ref="char:cmbAbbrStroke">̄</g>t to haue meate, drynke, ray<g ref="char:EOLhyphen"/>ment and wages, payinge ſkot and lot to God, &amp; to our Kyng, now there is nothyng kept there but onlye ſhepe. Now theſe twelfſcore perſons had nede to haue liuing, whe<g ref="char:EOLunhyphen"/>ther ſhal they go, into North<g ref="char:EOLunhyphen"/>hampton ſhyre? and there is alſo the lyuing of twelef ſcore perſons loſte, whether ſhall then they goo? foorth from
+<pb facs="tcp:25787:7"/>ſhyre to ſhyre, and to be ſca<g ref="char:EOLhyphen"/>thered thus abrode, within y<hi rend="sup">e</hi> Kynges maieſtyes Realme, where it ſhall pleaſe almigh<g ref="char:EOLhyphen"/>ty God, and for lacke of ma<g ref="char:EOLhyphen"/>ſters, by compulſion dryuen ſome of them to begge, and ſome to ſteale.</p>
+               <p>The ſeconde loſſe as we do thinke, that there is neuer a plough of the .xl. plowes, but he is able to tyll and plowe to certifye ſyx perſons, and eue<g ref="char:EOLhyphen"/>ry ploughe to ſell .xxx. quar<g ref="char:EOLhyphen"/>ters of grayne by the yeare, or els he can full yll paye, ſyx, ſeuen, eyght poundt by the yeare, xl. plowes .xxx. quar<g ref="char:EOLhyphen"/>ters euery ploughe, draweth to two hundreth quarters in Buckingham ſhyre, two hun<g ref="char:EOLunhyphen"/>dreth quarters in Oxforde
+<pb facs="tcp:25787:8"/>ſhyre, &amp; two .cc. quarters in Northa<g ref="char:cmbAbbrStroke">̄</g>pto<g ref="char:cmbAbbrStroke">̄</g> ſhyre, &amp; ſo forth fro<g ref="char:cmbAbbrStroke">̄</g> ſhyre to ſhyre in certayne ſhy<g ref="char:EOLhyphen"/>res within y<hi rend="sup">e</hi> Kings maieſties Realme of Englande, what ſhall the twelf two hundreth quarters of corne do in Ox<g ref="char:EOLhyphen"/>forth ſhyre: we do thynke it wyll mainteyne the Kynges markettes, and ſuſtayne the Kynges ſubiectes, and lyke<g ref="char:EOLhyphen"/>wyſe in Buckyngham ſhyre, &amp; alſo in Northampton ſhyre, and ſo from ſhyre to ſhyre, in certayne ſhyres wythin the Kynges mageſties Realme. Furthermore it is to be conſy<g ref="char:EOLunhyphen"/>dered what thys twelf hun<g ref="char:EOLhyphen"/>dreth quarters of corne is a<g ref="char:EOLhyphen"/>ble to do within Oxford ſhyre, it is able to certifye &amp; ſuffyce xv. ſcore people by the yeare
+<pb facs="tcp:25787:8"/>breade, and drynke, &amp; allowe to euery perſon .ij. quarters of weate, and two quarters of malt by the yere, where as in the fyrſt the hole lyuing of twelf ſcore perſons meate, &amp; drynke, and rayment, vpry<g ref="char:EOLhyphen"/>ſyng &amp; downe lying, payinge ſkot and lot to our God, and to our Kyng. And the ſecond loſſe bread and drynke for. xv ſcore perſons by the yeare, whiche the hole nombre dra<g ref="char:EOLhyphen"/>weth to .v. hundreth and .xl. perſons in Oxforth ſhyre, ſo in Buckyngham ſhyre, &amp; ſo lykewyſe in Northampton ſhyre, and ſo forth from ſhyre to ſhyre wythin the Kynges maieſtyes Realme.</p>
+               <p>And yf it be as we do thi<g ref="char:cmbAbbrStroke">̄</g>ke y<hi rend="sup">t</hi> there be .iiij. ſcore plowes in
+<pb facs="tcp:25787:9"/>euery one of theſe ſhyres les the<g ref="char:cmbAbbrStroke">̄</g> there was, then is there y<hi rend="sup">e</hi> lyuyng loſt of a thouſand &amp; iiij. ſcore perſons in euerye one of theſe foreſayde ſhyres: Thys is the ſeconde loſſe as we do thynke and call for re<g ref="char:EOLhyphen"/>medy for it.</p>
+               <p>The thyrde loſſe, as we do thynke, we do loſe in the ſayd thre ſhyres kepynge of houſ<g ref="char:EOLhyphen"/>hold and hoſpitalitye &amp; main<g ref="char:EOLunhyphen"/>tayning of tyllage and houſ<g ref="char:EOLhyphen"/>hold kepyng, we do lacke cor<g ref="char:EOLhyphen"/>ne and alſo leſe our cattell, for where any houſholde is kept, there is kept kyne and calues, and of our kine there commeth mylke, butter and cheaſe, and all this doeth ſu<g ref="char:EOLhyphen"/>ſtayne the Kynges Maye<g ref="char:EOLhyphen"/>ſties ſubiectes, and for thys
+<pb facs="tcp:25787:9"/>we haue nothyng but ſhepe.</p>
+               <p>And furthermore, where houſholdes be kept, there is hogges, pygges and bakon, capons, he<g ref="char:cmbAbbrStroke">̄</g>nes, duckes, Eg<g ref="char:EOLhyphen"/>ges, frute and many other co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>modityes, that is neceſſary &amp; nedefull to be had for y<hi rend="sup">e</hi> main<g ref="char:EOLhyphen"/>tenaunce and lyuinge of the Kynges maieſties poore ſub<g ref="char:EOLhyphen"/>iectes to lyue by, and for that we haue nothyng but ſhepe. This is the thyrd loſſe.</p>
+               <p>The .x. is whiche we do cal for remedy, and we deſyre of God and the Kynges maie<g ref="char:EOLhyphen"/>ſtye, yf it ſhal pleaſe his high<g ref="char:EOLunhyphen"/>nes to be ſo good &amp; gracyous vnto his poore ſubiectes, that there might be in euery ſhyre &amp; hundred as many plowes vſed, occupyed, and mayntey<g ref="char:EOLunhyphen"/>ned
+<pb facs="tcp:25787:10"/>as many houſholds kept as was by king Henry the ſe<g ref="char:EOLhyphen"/>uenth tyme, fyrſt commynge and then vnfayned as we do thynke we ſholde haue corne ynough, cattell ynough, and ſhepe ynough, then wil ſhepe and woll be in more mens ha<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>des, we ſhall haue alſo white meate ynough, and all thyn<g ref="char:EOLhyphen"/>ges neceſſary. And thus Ie<g ref="char:EOLhyphen"/>ſu preſerue our dreade ſoue<g ref="char:EOLhyphen"/>raingne Lorde and Kynge.</p>
+               <p>As we do thynke we haue two loſſes more that we haue not ſpoken: The firſte loſſe is for lacke of houſhold kepyng &amp; mayntenaunce of tyllage, it is great decay to artyllary: for y<hi rend="sup">t</hi> do we reken that ſhepe<g ref="char:EOLhyphen"/>herdes be but yll artchers.</p>
+               <p>And as we do further thi<g ref="char:cmbAbbrStroke">̄</g>ke
+<pb facs="tcp:25787:10"/>it leſeth the kings maieſty in prouiſio<g ref="char:cmbAbbrStroke">̄</g> for his noble houſhol<g ref="char:EOLhyphen"/>des, that is to ſaye in wheat, malt, beues, mottons, veles, hay and otes, and pultry, &amp; all maner ſuche prouiſions, y<hi rend="sup">t</hi> belongeth to hys maieſtyes houſholde as we do thynke, v. thouſande markes by the yeare with y<hi rend="sup">e</hi> leſt. In a tri<g ref="char:EOLhyphen"/>al as we do thynke yf it ſhuld pleaſe the Kynges maieſties offycers to call in hys graces purue yers, &amp; examyne them where they haue had within their tyme for his graces pro<g ref="char:EOLhyphen"/>uiſio<g ref="char:cmbAbbrStroke">̄</g>s of his warres, &amp; for his maieſtyes houſholde: where as there is nowe nothyng to be gotten, for they that kepe the ſayde la<g ref="char:cmbAbbrStroke">̄</g>des, hath put the fore ſayde landes to paſtures
+<pb facs="tcp:25787:11"/>themſelf byeth all maner of grayne &amp; corne to kepe theyr houſhold with all.</p>
+               <p>Furthermore, yf it ſhall pleaſe the Kynges highnes, and hys noble counſell for to haue a further tryall of thys matter, and to aſſure it to be true: take al craftes me<g ref="char:cmbAbbrStroke">̄</g> dwel<g ref="char:EOLunhyphen"/>ling in cyties &amp; townes, day laborers that laboreth by wa<g ref="char:EOLunhyphen"/>ter or by lande, corrygers &amp; other houſholders, refuſyng none, but only them y<hi rend="sup">t</hi> hath al this aboundaunce, that is to ſaye: ſhepe or woll maſters and incloſers, the lamentaci<g ref="char:EOLhyphen"/>ons of the Kinges maieſtyes ſubiectes will make any true herted body to ſeke &amp; call for remedy, whiche we beſeche y<hi rend="sup">e</hi> Lorde to amende. Amen.</p>
+               <pb facs="tcp:25787:11"/>
+               <p> Furthermore, as we do thinke, this Realme doeth de<g ref="char:EOLunhyphen"/>caye by thys meanes, it is to vnderſtande and knowen, y<hi rend="sup">t</hi> there is in England townes and villages to the nomber of fifty thouſand &amp; vpward, &amp; for euery towne and vyllage take them one with an other throughout all, there is one plowe decayed ſens the fyrſte yeare of the raigne of kynge Henry the ſeuenth. And in ſom townes and vyllages all the hole towne decayed ſens that time, and yf there be for euery towne and village one plough decayed, ſens the firſt yeare of the raygne of kyng Henry the ſeuenth: Then is there decayed .l. thouſande plowes and vpwarde. The
+<pb facs="tcp:25787:12"/>whiche .l. thouſande plowes, euerye ploughe were able to mainteine .vi. perſons. That is to ſaye: the man, the wyfe and fower other in his houſe leſſe and more .l. thouſande plowes, ſyx perſons to euery plough, draweth to the nom<g ref="char:EOLhyphen"/>ber of thre hundred thouſand perſons were wont to haue meate, drynke and rayment, vpryſing and downe lyinge, paying ſkot and lot to God, &amp; to the Kyng. And now they haue nothynge, but goeth about in England from dore to dore, and axe theyr almoſe for Goddes ſake And becauſe they will not begge, ſome of them doeth ſteale, and then they be ha<g ref="char:cmbAbbrStroke">̄</g>ged, and thus the Realme doeth decay, and by
+<pb facs="tcp:25787:12"/>none other wayes els, as we do thynke, beſechynge your hyghnes of your moſte noble grace and honourable Lord<g ref="char:EOLhyphen"/>ſhyppes, the premiſſes tender<g ref="char:EOLunhyphen"/>ly conſidered before you in ex<g ref="char:EOLunhyphen"/>aminacion vpon y<hi rend="sup">e</hi> premiſſes, th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> we may haue a remedy in this behalf. And we ſhall dayely praye for the co<g ref="char:cmbAbbrStroke">̄</g>ſer<g ref="char:EOLhyphen"/>uacion of your highnes and for your ful no<g ref="char:EOLhyphen"/>ble lordſhyppes.</p>
+            </div>
+         </div>
+         <trailer>Finis.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London in Pouls churche yearde at the ſygne of Saynct Auſten by Heugh Syn<g ref="char:EOLhyphen"/>gelton.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
